@@ -12,6 +12,8 @@ O nome Minas da TI é um trocadilho com a palavra "mina", gíria usada como dimi
 
 * 23 de Janeiro de 2016 - Workshop de GIT I
 
+* 27 de Fevereiro de 2016 - Workshop de GIT II
+
 ###Sou homem e quero ajudar. Como faço?
 
 Apreciamos muito seu interesse em nos ajudar, de coração. No momento, estamos construindo e fortalecendo o grupo e, em razão disso, ele estará fechado para a participação apenas de mulheres. Com isso buscamos criar um ambiente seguro para as minas participantes. Caso você conheça alguma mulher que possa se identificar com o Minas da TI ou alguma mulher que possa palestrar, gostaríamos muito de conhecê-la e isso seria uma grandiosa ajuda para nós! :)
