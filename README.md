@@ -8,13 +8,9 @@ O nome Minas da TI é um trocadilho com a palavra "mina", gíria usada como dimi
 
 ###Timeline de Encontros: 
 
-* 12 de Dezembro de 2015 
+* 12 de Dezembro de 2015 - O que é um FishBowl?
 
-O que é um FishBowl?
-
-* 23 de Janeiro de 2016
-
-Workshop de GIT I
+* 23 de Janeiro de 2016 - Workshop de GIT I
 
 ###Sou homem e quero ajudar. Como faço?
 
