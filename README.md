@@ -1,4 +1,4 @@
-<center> <h2>Hello Minas da TI :)<h2></center>
+##Hello Minas da TI :)
 
 Minas da TI é um grupo formado por mulheres que atuam na área de tecnologia da informação ou que atuam em outras áreas e possuem interesse por tecnologia. Temos os objetivos de empoderar mulheres e promover a troca de conhecimento. Utilizamos a tecnologia como ferramenta para atingirmos tais objetivos. Atualmente o grupo é exclusivo para mulheres.
 
