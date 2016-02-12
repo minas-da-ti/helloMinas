@@ -1,4 +1,4 @@
-##Hello Minas da TI :)
+<center><h2>Hello Minas da TI :)<h2></center>
 
 Minas da TI é um grupo formado por mulheres que atuam na área de tecnologia da informação ou que atuam em outras áreas e possuem interesse por tecnologia. Temos os objetivos de empoderar mulheres e promover a troca de conhecimento. Utilizamos a tecnologia como ferramenta para atingirmos tais objetivos. Atualmente o grupo é exclusivo para mulheres.
 
@@ -8,11 +8,11 @@ O nome Minas da TI é um trocadilho com a palavra "mina", gíria usada como dimi
 
 ###Timeline de Encontros: 
 
-* 12 de Dezembro de 2015 - O que é um FishBowl?
+1. 12 de Dezembro de 2015 - O que é um FishBowl?
 
-* 23 de Janeiro de 2016 - Workshop de GIT I
+2. 23 de Janeiro de 2016 - Workshop de GIT I
 
-* 27 de Fevereiro de 2016 - Workshop de GIT II
+3. 27 de Fevereiro de 2016 - Workshop de GIT II
 
 ###Sou homem e quero ajudar. Como faço?
 
